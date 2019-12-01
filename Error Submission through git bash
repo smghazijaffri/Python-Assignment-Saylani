@@ -1,0 +1,11 @@
+# Python-Assignment-Saylani
+Sir couldn't push the the files through git bash as a folder therefore had to do this
+Below is the error occured
+
+To https://github.com/smghazijaffri/Python-Assignment-Saylani
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/smghazijaffri/Python-Assignment-Saylani'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
